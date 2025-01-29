@@ -1,5 +1,5 @@
 [![CI](https://github.com/nogibjj/atreya-tadepalli-miniproject10/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/atreya-tadepalli-miniproject10/actions/workflows/cicd.yml)
-### Mini Project 10 - Pyspark Usage
+### Pyspark Usage
 
 ## Introduction
 
